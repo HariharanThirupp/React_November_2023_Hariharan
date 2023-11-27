@@ -1,0 +1,17 @@
+.body3{
+    background-image: url(https://www.expatica.com/app/uploads/sites/2/2017/02/barcelona-1920x1080.jpg);
+
+    background-attachment: fixed;
+}
+.foot{
+    background-color: black;    
+    color: white;
+    text-align: right;
+    justify-content: right;
+}
+.joi{
+    text-align: right;
+}
+.rate{
+    text-align: center;
+}

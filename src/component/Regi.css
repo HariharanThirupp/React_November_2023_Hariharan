@@ -1,0 +1,16 @@
+.box1{
+    box-shadow: 0 0 10px black;
+    color: black;
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    filter:blur(0px) 
+}
+
+.body4{
+
+    background-image: url(https://torange.biz/photofxnew/0/HD/light-sepia-background-bright-lights-113.jpg);
+    background-color: grey;
+    background-size: cover;
+    height: 900px;
+}

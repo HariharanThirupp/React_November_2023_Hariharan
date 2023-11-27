@@ -1,0 +1,16 @@
+.box1{
+    box-shadow: 0 0 10px black;
+    color: black;
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.body1{
+
+    background-image: url(https://png.pngtree.com/background/20210715/original/pngtree-geography-tourism-tourism-background-map-global-travel-picture-image_1304998.jpg);
+    background-size: cover;
+    background-color: grey;
+    background-size: cover;
+    height: 900px;
+}
